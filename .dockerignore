@@ -1,0 +1,8 @@
+.devcontainer
+.git
+.gitignore
+.dockerignore
+Dockerfile
+LICENSE.txt
+README.md
+mimamori/mimamori.db
